@@ -1,14 +1,15 @@
 html {
-    background-color: #f2f1ed;
-    font-family: Georgia, serif;
-    line-height: 1.5;
-  }
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+}
 
 img {
   width: 100%;
 }
 
 h1, h2 {
+  font-family: "Patua One", serif;
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -20,10 +21,11 @@ figcaption {
 }
 
 nav {
+  font-family: "Patua One", serif;
   font-size: 1.125rem;
   font-weight: bold;
-
 }
+
 nav ol {
   list-style-type: none;
 }
@@ -39,7 +41,7 @@ nav a:hover {
 }
 
 .intro {
-  font-size: 1rem
+  font-size: 1rem;
 }
 
 nav, h1, h2 {
